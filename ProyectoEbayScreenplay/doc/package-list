@@ -1,0 +1,9 @@
+com.ebay.qa.proyectoebayscreenplay.exceptions
+com.ebay.qa.proyectoebayscreenplay.interactions
+com.ebay.qa.proyectoebayscreenplay.models
+com.ebay.qa.proyectoebayscreenplay.questions
+com.ebay.qa.proyectoebayscreenplay.runners
+com.ebay.qa.proyectoebayscreenplay.stepsdefinitions
+com.ebay.qa.proyectoebayscreenplay.tasks
+com.ebay.qa.proyectoebayscreenplay.userinterfaces
+com.ebay.qa.proyectoebayscreenplay.utils
